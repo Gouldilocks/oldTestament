@@ -397,7 +397,9 @@ __NEED SOMETHING__
 __NEED SOMETHING__
 
 ### Reader-Response Criticism
-__NEED SOMETHING__
+* Text seperates the author from the audience.
+* Author -> Implied Author -> Text -> Implied Audience
+* Author -> Text <- Audience
 
 ## Terms
 ### Wisdom Literature
@@ -549,4 +551,4 @@ __NEED SOMETHING__
   * [David](#David) is treated in a __Special__, and an __Exclusive__ way different to that of [Saul](#Saul)
 
 ### Wolfgang Iser  
-__NEED SOMETHING__
+* Created Reader-Response Criticism
