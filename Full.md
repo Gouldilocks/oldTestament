@@ -518,7 +518,7 @@ __NEED SOMETHING__
 __NEED SOMETHING__
 
 ### William F. Albright
-* Coined the term [Historical Criticism](#Historical-Criticism).
+* Coined the term [Historical Criticism](#Historical-Criticism), which uses the Bible as a historical source.
 
 ### History of Davids Rise
 * As we move on in the story, everyone who stands in the way of [David](#David) just dies.
