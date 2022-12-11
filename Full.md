@@ -88,11 +88,23 @@ __NEED SOMETHING__
   * Possibly Amos himself, or someone in the audience
   * Possibly someone from Judah
 * Amos 1:3
-  * Talking about neighbors of the kingdom of israel, 
+  * Talking about neighbors of the kingdom of israel, so it made the northern part happy.
+  * The wealth in the north is the result of the exploitation of the poor
+
+* Rhetoric in Amos:
+  * Speaking at bethel in a temple.
+  * Farmers sacrifice produce and animals, so he talks about locusts coming to scare them
+  * Talks about "Swords". Therefore God is coming as a destroyer
+
+* Who is the actual audience? Us
+* This was talking about the assyrian attack.
+* The question left to us at the end is: __Are we next?__
 
 ### Hosea
+__NEED SOMETHING__
 
 ### Isaiah
+__NEED SOMETHING__
 
 ### Jeremiah
 * When God asks him to go prophecy, he wants to not go, and complains.
@@ -137,17 +149,21 @@ __NEED SOMETHING__
 * Has mixed messages of Doom and salvation
 
 ### Habakuk
+__NEED SOMETHING__
 
 ### Zechariah
 * God's world is different, so using that [Mysticism](#Mysticism), we know Zechariah is actually seeing God.
 * This is time after the exile, so he really has to work for his credentials.
   
 ### Hananiah
+__NEED SOMETHING__
 
 # Other Biblical and Post-Biblical Characters
 ### Ishbosheth
+__NEED SOMETHING__
 
 ### Joab
+__NEED SOMETHING__
 
 ### Bathsheba
 * The woman who [David](#David) committed adultery with.
@@ -158,8 +174,10 @@ __NEED SOMETHING__
 * His wife was [Bathsheba](#Bathsheba)
 
 ### Absalom
+__NEED SOMETHING__
 
 ### Amaziah
+__NEED SOMETHING__
 
 ### Ruth
 * What happened in Ruth?
@@ -170,8 +188,10 @@ __NEED SOMETHING__
 * One can use [Structural Criticism](#Structural-Criticism) on this book.
 
 ### Naomi
+__NEED SOMETHING__
 
 ### Boaz
+__NEED SOMETHING__
 
 ### Esther
 * Esther is the most hotly debated of the [Unholy Trinity](#UnholyTrinity)
@@ -253,44 +273,62 @@ __NEED SOMETHING__
 * The messiah of the world, from the new Testament. You gotta know this guy, yeah?
 
 ### Father Mapple
+__NEED SOMETHING__
 
 ### Teacher of Righteousness
+__NEED SOMETHING__
 
 ### Wicked Priest
+__NEED SOMETHING__
 
 ### Jonathan
+__NEED SOMETHING__
 
 ### Goliath
+__NEED SOMETHING__
 
 ### Tamar
+__NEED SOMETHING__
 
 ### Amnon
+__NEED SOMETHING__
 
 ### Abner
+__NEED SOMETHING__
 
 ### Amasa
+__NEED SOMETHING__
 
 ### Adonijah
+__NEED SOMETHING__
 
 ### Lady Wisdom
+__NEED SOMETHING__
 
 # Places, Countries, Peoples, Artifacts, and One Goddess
 ### Bethel
+__NEED SOMETHING__
 
 ### Samaria
+__NEED SOMETHING__
 
 ### Nineveh
+__NEED SOMETHING__
 
 ### Assyria
+__NEED SOMETHING__
 
 ### Babylon
 * See context about [Jeremiah](#Jeremiah)
 
 ### Persia
+__NEED SOMETHING__
 
 ### Chaldeans
+__NEED SOMETHING__
 
 ### Moab
+__NEED SOMETHING__
 
 ### Ten Lost Tribes
 * When Israel was attacked by the Assyrians, they were ransacked.
@@ -300,20 +338,28 @@ __NEED SOMETHING__
 
 
 ### Mari
+__NEED SOMETHING__
 
 ### Kittim/Romans
+__NEED SOMETHING__
 
 ### Bethlehem
+__NEED SOMETHING__
 
 ### Jerusalem
+__NEED SOMETHING__
 
 ### Ten Lost Tribes
+__NEED SOMETHING__
 
 ### Inanna/Ishtar
+__NEED SOMETHING__
 
 ### Northern Kingdom/Israel
+* The northern, more rich area of Jerusalem
 
 ### Southern Kingdom/Judah
+* On the south side
 * Has Solomon's Temple
 
 # Concepts, Terms, Scholars, Authors
@@ -339,10 +385,13 @@ __NEED SOMETHING__
   * 
 
 ### Redaction Criticism
+* Seen in 2 Samuel. See [David](#David)
 
 ### Historical Criticism
+__NEED SOMETHING__
 
 ### Reader-Response Criticism
+__NEED SOMETHING__
 
 ## Terms
 ### Wisdom Literature
@@ -381,6 +430,7 @@ __NEED SOMETHING__
   * It is clear that Serge believes this term should mean when people went back to the Bible and edited it in order to make it more appropriately match their views. I don't buy it, but thats what he believes clearly.
 
 ### Davidic Promise
+__NEED SOMETHING__
 
 ### Deconstruction
 * Put into gaps things that the author did not want you to think about
@@ -431,8 +481,10 @@ __NEED SOMETHING__
   * It helps the prophet push their message
 
 ### Succession Narrative/Court History
+__NEED SOMETHING__
 * 
 ### "Stories"
+__NEED SOMETHING__
 * 
 ### Didactic
 * The genre that is all *instructions or teachings*
@@ -440,18 +492,24 @@ __NEED SOMETHING__
   * The opposite type of writing is like the writings in Job or [Ecclesiastes](#Ecclesiastes)
   
 ### reflective/speculative/critical
+__NEED SOMETHING__
 * 
 ### Deutero-Isaiah
+__NEED SOMETHING__
 * 
 ### Typology
+__NEED SOMETHING__
 
 ## People
 
 ### Stefan Heym
+__NEED SOMETHING__
 
 ### Claude Levi-Strauss
+__NEED SOMETHING__
 
 ### Martin Noth
+__NEED SOMETHING__
 
 ### William F. Albright
 * Coined the term [Historical Criticism](#Historical-Criticism).
@@ -485,3 +543,4 @@ __NEED SOMETHING__
   * [David](#David) is treated in a __Special__, and an __Exclusive__ way different to that of [Saul](#Saul)
 
 ### Wolfgang Iser  
+__NEED SOMETHING__
