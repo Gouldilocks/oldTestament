@@ -30,7 +30,7 @@ BCE 458: End of Ezrah
 
 ### David
 * See the killing of [Saul](#Saul)
-* See [History of David's Rise](#history-of-david's-rise)
+* See [History of David's Rise](#history-of-davids-rise)
 * David built the Kingdom, Solomon destroyed it
 
 ### Solomon
@@ -456,7 +456,7 @@ __NEED SOMETHING__
 ### William F. Albright
 * Coined the term [Historical Criticism](#Historical-Criticism).
 
-### History of David's Rise
+### History of Davids Rise
 * As we move on in the story, everyone who stands in the way of [David](#David) just dies.
   * We do not know if he was in any way involved.
   * Would a "Man after God's own heart" be able to secretly murder people?
