@@ -127,7 +127,7 @@ __NEED SOMETHING__
 ### Ezekiel
 * Sees a vision from God, and has to lie on his side 390 days and then 40 days on the other to represent the two kingdoms.
 * In Ezekiel 47, there is a parallel to the garden of eden.
-* Was a prophecy to the return of the garden of eden
+* He was among the exiles
 
 ### Jonah
 * Jonah is one of the 12 minor prophets
@@ -151,18 +151,20 @@ __NEED SOMETHING__
       * Because at the time of the books writing, Jerusalem had been sacked by Nineveh, and the book is set before that time. The sacrifice here is Jerusalem. That is also why it is shown that Jonah was so upset about them being spared. 
   * The book shows that God *Does* sacrifice the innocent for the sake of the sinner
 
-### Zephaniah
+### Zephaniah (Late 7th Century)
 * Has mixed messages of Doom and salvation
+* Message balanced between doom and salvation
+* Redaction criticism
 
-### Habakuk
-__NEED SOMETHING__
+### Habakkuk (Late 7th Century)
+* He asks why the people even though they follow the Lord.
 
-### Zechariah
+### Zechariah (Late 6th Century)
 * God's world is different, so using that [Mysticism](#Mysticism), we know Zechariah is actually seeing God.
 * This is time after the exile, so he really has to work for his credentials.
   
 ### Hananiah
-__NEED SOMETHING__
+* False prophet, he declared that the Lord would free Judah from Babylon, which is the opposite of what God told Jeremiah. Jeremiah tells Hananiah that he will die for preaching rebellion against God, and he does die.
 
 # Other Biblical and Post-Biblical Characters
 ### Ishbosheth
@@ -322,7 +324,7 @@ __NEED SOMETHING__
 __NEED SOMETHING__
 
 ### Assyria
-__NEED SOMETHING__
+* Conquered the Northern Kingdom (Israel). Fell in late 7th century, replaced by Babylon
 
 ### Babylon
 * See context about [Jeremiah](#Jeremiah)
@@ -422,6 +424,7 @@ __NEED SOMETHING__
 ### Actualization
 * This is when a prophecy made by a prophet is actually fulfilled by God
 * This is how we know if a prophet is a false prophet or not
+* Assumes that the Bible contains a lesson and is meaningful for modern audiences
 
 ### Allegorization
 * Basically an extended metaphor
@@ -453,7 +456,7 @@ __NEED SOMETHING__
 ### Symbolic Action
 * Definition: When a prophet does something crazy which symbolizes God's plan.
 * Uses people's curiosity and gets their attention
-* If people see a prophet acting in these weird and crazy ways, then he __must__ be talking to God. It establishes some ethos.
+* If people see a prophet acting in these weird and crazy ways, then he __must__ be talking to God. It establishes some credibility.
 * Examples:
   * [Ezekiel(#Ezekiel) sees God's chariot in a dream, and then other things that God defines
     * As a result, he makes a model city and has to lie on his left side 390 days and the other side 40.
@@ -506,7 +509,8 @@ __NEED SOMETHING__
 __NEED SOMETHING__
 * 
 ### Typology
-__NEED SOMETHING__
+* Similar to Actualization, sees the Bible as a prescedent. 
+* Assumes that the Bible contains a lesson and is meaningful for modern audiences
 
 ## People
 
