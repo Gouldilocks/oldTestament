@@ -22,7 +22,12 @@ BCE 458: End of Ezrah
 * Big Highlights: Elijah and Elisha
 * The narrative of the book more closely follows traditional history. That is why we get some hard and fast dates for this time period
 * Starting with the times in David and Solomon, we can start to use the Bible for history, because 3rd sources back it up.
+
 ### Saul
+* King before David, was a clear example of a king who lost favor in God's eyes
+* He tried to get David killed, after David was annointed king by [Samuel](#Samuel)
+* Saul was king when Israel was fighting the philistines
+
 * The Amalekite who killed Saul, *Ish-Boshtheth*
   * What was he doing on the Battlefield?
     * Most likely he was scavenging, but David claims that he had killed Saul after Saul asked to be killed (Serge does not think that is what happened. He thinks that David conspired to kill him and covered his tracks).
