@@ -94,7 +94,7 @@ Very hard to date events up until this point in history.
 * King of Judah during Babylonian exile. Appointed by Nebuchadnezzar. He did evil in the Lord's eyes. He later rebels against Babylon and is punished.
 
 # Prophets
-### Amos
+### Amos (8th Century BC)
 * Who was the author?
   * Implied author: Amos and God
   * Author: Unknown, maybe made up
@@ -111,13 +111,13 @@ Very hard to date events up until this point in history.
 * This was talking about the assyrian attack.
 * The question left to us at the end is: __Are we next?__
 
-### Hosea
+### Hosea (8th Century BC)
+* Told by God to marry a promiscuous woman. His relationship with her was an example of the relationship between God and Israel.
+
+### Isaiah (8th Century BC)
 __NEED SOMETHING__
 
-### Isaiah
-__NEED SOMETHING__
-
-### Jeremiah
+### Jeremiah (Early 6th Century BC)
 * When God asks him to go prophecy, he wants to not go, and complains.
 * Prophets would commonly say no to becoming a prophet
   * They were usually people who had bad things happen to them for the purpose of showing God is serious.
@@ -127,12 +127,12 @@ __NEED SOMETHING__
   * An opposing prophet, [Heneniah](#Heneniah) says that they should fight.
     * This is not something that was a crazy idea, because of the previous precedent with [Isaiah](#Isaiah), where God defended the temple.
 
-### Ezekiel
+### Ezekiel (Early 6th Century BC)
 * Sees a vision from God, and has to lie on his side 390 days and then 40 days on the other to represent the two kingdoms.
 * In Ezekiel 47, there is a parallel to the garden of eden.
 * Was a prophecy to the return of the garden of eden
 
-### Jonah
+### Jonah (8th Century BC)
 * Jonah is one of the 12 minor prophets
 * Very unique book, has a lot of comedic parts to it
 
@@ -154,19 +154,19 @@ __NEED SOMETHING__
       * Because at the time of the books writing, Jerusalem had been sacked by Nineveh, and the book is set before that time. The sacrifice here is Jerusalem. That is also why it is shown that Jonah was so upset about them being spared. 
   * The book shows that God *Does* sacrifice the innocent for the sake of the sinner
 
-### Zephaniah
+### Zephaniah (Late 7th Century BC)
 * Has mixed messages of Doom and salvation
 
-### Habakuk
+### Habakuk (Late 7th Century BC)
 __NEED SOMETHING__
 
-### Zechariah
+### Zechariah (Late 6th Century BC)
 * God's world is different, so using that [Mysticism](#Mysticism), we know Zechariah is actually seeing God.
 * This is time after the exile, so he really has to work for his credentials.
 * Wrote to reassure the people. Political regime change in Persia made the people jumpy.
   
 ### Hananiah
-__NEED SOMETHING__
+* False prophet, said the yoke of Babylon would be broken by God, which is the opposite of what Jeremiah said. Died because he said false prophesy.
 
 # Other Biblical and Post-Biblical Characters
 ### Ishbosheth
