@@ -20,16 +20,16 @@ BCE 561: End of Kings
 * The Amalekite who killed Saul
   * What was he doing on the Battlefield?
     * Most likely he was scavenging, but David claims that he had killed Saul after Saul asked to be killed (Serge does not think that is what happened. He thinks that David conspired to kill him and covered his tracks).
-* Saul was one of the people who "magically" died while [David](###David) was rising to power
+* Saul was one of the people who "magically" died while [David](#David) was rising to power
 
 ### David
-* See the killing of [Saul](###Saul)
+* See the killing of [Saul](#Saul)
 
 
 ### Solomon
-* First King in the book of kings. Descended from [David](###David)
+* First King in the book of kings. Descended from [David](#David)
 Very hard to date events up until this point in history.
-* Serge claims that he is NOT the writer of [Ecclesiastes](###Ecclesiastes)
+* Serge claims that he is NOT the writer of [Ecclesiastes](#Ecclesiastes)
 
 ### Jeroboam I
 ### Hezekiah
@@ -91,7 +91,7 @@ Very hard to date events up until this point in history.
 ### Naomi
 ### Boaz
 ### Esther
-* Esther is the most hotly debated of the [Unholy Trinity](###UnholyTrinity)
+* Esther is the most hotly debated of the [Unholy Trinity](#UnholyTrinity)
 * Even Martin Luther hated the book of Esther.
 * There is no mention of God, Prayer, the commandments, the temp, the promised land, or even Israel.
 * There are multiple versions of Esther:
@@ -108,7 +108,7 @@ Very hard to date events up until this point in history.
     * Both have 6 additions. Between those additions, God is mentioned a ton. There is a lot of prayer and commandments mentioned.
     * It is clear that the text has an emphasis on what the original book was lacking.
     
-  * *Looking at these, we can see a clear example of [Text Criticism](###TextCriticism)*
+  * *Looking at these, we can see a clear example of [Text Criticism](#TextCriticism)*
   
   * Big difference:
     * In these edited versions, Hamon comes earlier for his betrayal *Before* The new queen part.
@@ -127,13 +127,13 @@ Very hard to date events up until this point in history.
 * Coined a "Self help book" by Serge himself
 * Reflective / Speculative / Critical.
 * Has a different view of wisdom than to that of Proverbs.
-* Was *Not* Written by [Solomon](###Solomon) according to Serge himself.
+* Was *Not* Written by [Solomon](#Solomon) according to Serge himself.
   * Has some words that were in Persian, and he would not know that language, nor were the Persians around during Solomon's time.
   * Why would someone do that?
     * Because they want the ethos that Solomon's name attributes
 
 * Why would Ecclesiastes be written after the exile?
-  * Ecclesiastes raises the issue of [Theodicy](###Theodicy)
+  * Ecclesiastes raises the issue of [Theodicy](#Theodicy)
   
 * What does Ecclesiastes say about God?
   * Try to enjoy what you have, since life will end. Make the most of it.
@@ -194,7 +194,7 @@ Very hard to date events up until this point in history.
 * Useful for:
   * Figuring out if there are mistakes in the scripture
   * By comparing different versions, we can learn more about each version
-  * Example: [Esther](###Esther)
+  * Example: [Esther](#Esther)
 ### Structural Criticism
 ### Redaction Criticism
 ### Historical Criticism
@@ -223,15 +223,15 @@ Very hard to date events up until this point in history.
 
 * Ex)
   * 1 Samuel 15 - 2 Samuel 8
-    * This is the history of [David's](###David) rise
+    * This is the history of [David's](#David) rise
       * Commonly knowwn to be Apologetics, since it appears to be trying to justify something in the Bible.
       * This is a hypertext
 ### Symbolic Action
 ### Unholy Trinity
 * The unholy Trinity is the name Serge coined for the 3 books of the Bible that do not mention God, the commandments, or any of the sacraments. They are:
-  * [Esther](###Esther)
-  * [Ecclesiastes](###Ecclesiastes)
-  * [Song of Songs](###SongOfSongs)
+  * [Esther](#Esther)
+  * [Ecclesiastes](#Ecclesiastes)
+  * [Song of Songs](#SongOfSongs)
   
 * We know that there were debates about if they should be in the Bible.
 ### Alpha-text
@@ -243,7 +243,7 @@ Very hard to date events up until this point in history.
 ### Didactic
 * The genre that is all *instructions or teachings*
 * Proverbs is Didactic
-  * The opposite type of writing is like the writings in Job or [Ecclesiastes](###Ecclesiastes)
+  * The opposite type of writing is like the writings in Job or [Ecclesiastes](#Ecclesiastes)
 ### reflective/speculative/critical
 ### Deutero-Isaiah
 ### Typology
@@ -256,7 +256,7 @@ Very hard to date events up until this point in history.
 ### William F. Albright
 * Coined the term [Historical Criticism](#HistoricalCriticism).
 ### History of David's Rise
-* As we move on in the story, everyone who stands in the way of [David](###David) just dies.
+* As we move on in the story, everyone who stands in the way of [David](#David) just dies.
   * We do not know if he was in any way involved.
   * Would a "Man after God's own heart" be able to secretly murder people?
 
