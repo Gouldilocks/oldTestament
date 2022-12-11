@@ -74,13 +74,14 @@ __NEED SOMETHING__
 * King of Babylon. Took many people of Jerusalem into exile.
 
 ### Cyrus
-* King of persia during the time of Jerusalem being conquered
+* King of Persia, conquered Babylon and freed Judah
 
 ### Jeroboam II
 __NEED SOMETHING__
 
 ### Darius
-* Other king of persia after king [Cyrus](#Cyrus)
+* Other king of Persia after king [Cyrus](#Cyrus)
+* Did not change Cyrus's policies regarding Jerusalem
 
 ### Ahasuerus/Ahashverosh/Artaxerxes
 __NEED SOMETHING__
@@ -160,6 +161,7 @@ __NEED SOMETHING__
 ### Zechariah
 * God's world is different, so using that [Mysticism](#Mysticism), we know Zechariah is actually seeing God.
 * This is time after the exile, so he really has to work for his credentials.
+* Wrote to reassure the people. Political regime change in Persia made the people jumpy.
   
 ### Hananiah
 __NEED SOMETHING__
@@ -187,8 +189,8 @@ __NEED SOMETHING__
 
 ### Ruth
 * What happened in Ruth?
-  * Death, famine, exile, misery, poverty, birth, plenty, homeland, joy, prosperity, then restoration
-  * Because of the movement from sadness to happiness (ignoble -> noble), then this is a comedy.
+  * Death, famine, exile, misery, poverty -> birth, plenty, homeland, joy, prosperity, restoration
+  * Because of the movement from sadness to happiness (ignoble -> noble), then this is a comedy. (Also God approves)
   * She was someone who broke barriers in the binaries. See [Structural Criticism](#Structural-Criticism)
 
 * One can use [Structural Criticism](#Structural-Criticism) on this book.
@@ -224,7 +226,7 @@ __NEED SOMETHING__
     * This is because people had a problem with Esther intermarrying for self gain.
     * This way, the new story now shows that she was intermarrying just to save her people, not self gain.
 
-### Mordechai
+### Mordecai
 * The cousin of [Esther](#Esther).
 * He gains power because of her. [Haman](#Haman) wanted to kill him, and that is what prompted [Esther](#Esther) to go to the king in the first place.
 
@@ -237,12 +239,12 @@ __NEED SOMETHING__
 * Personified as a woman in the song of songs and prophetic books
 
 ### Ezra
-* Ezra goes to Jerusalem to see if people are following the torah
+* Ezra goes to Jerusalem to see if people are following the torah (post exile)
   * He sees that people are intermarrying and gets super upset
   * The people then repent
 
-* Ezra says that conversion is not really possible
-* Clearly, the book of [Ruth](#Ruth) disagrees.
+* Ezra implies that conversion to Judaism is not possible
+* The book of [Ruth](#Ruth) disagrees (Ruth's conversion)
 
 ### Samuel
 * Strong part of the Christian Cannon
