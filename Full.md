@@ -39,25 +39,27 @@ BCE 458: End of Ezrah
 * David built the Kingdom, Solomon destroyed it
 
 ### Solomon
-* First King in the book of kings. Descended from [David](#David)
+* First King in the book of kings. Descended from [David](#David). Wise king
 Very hard to date events up until this point in history.
 * Serge claims that he is NOT the writer of [Ecclesiastes](#Ecclesiastes)
-* Serge says that there is no way Solomon wrote it
-  * He says there is too much persian writing in it
-* everything is great, inherits huge kingdom by his father King David
+* Serge says that there is no way Solomon wrote it since there are Persian words in it
+* Everything is great, inherits huge kingdom by his father King David
 * Solomon comes for the Hebrew word shalom which means Peace
 
 ### Jeroboam I
-* People rebelled against Rehoboam and chose Jeroboam as their king
+* People rebelled against Rehoboam, Solomon's son, and chose Jeroboam as their king
+* Causes Israel to split into Northern (Israel) and Southern (Judah) kingdoms
 
 ### Hezekiah
-* Second king in the book of kings. Descended from David
+* Second king in the book of Kings. Descended from David.
 * Tells us Senacchari overtakes Jerusalem since Hezekiah was causing trouble
 * indirectly confirms something else the Bible tells us
 * Up to this point, we were reading historical in a way it was an event on the past
 
 ### Manasseh
-__NEED SOMETHING__
+* King of Judah, did evil in the Lord's eyes
+* Idol worship, human sacrifice
+* God promised to wipe out Jerusalem due to his sin
 
 ### Josiah
 * Third King in the book of kings. Descended from David.
@@ -68,7 +70,8 @@ __NEED SOMETHING__
 * King of Judah, successor of Jehoiakim.
 
 ### Sennacherib
-__NEED SOMETHING__
+* King of Assyria
+* Angel of death killed a lot of his soldiers
 
 ### Nebuchadnezzar
 * King of Babylon. Took many people of Jerusalem into exile.
@@ -77,14 +80,15 @@ __NEED SOMETHING__
 * King of Persia, conquered Babylon and freed Judah
 
 ### Jeroboam II
-__NEED SOMETHING__
+* Son of Jehoash king of Israel
+* Restored Israel's borders
 
 ### Darius
 * Other king of Persia after king [Cyrus](#Cyrus)
 * Did not change Cyrus's policies regarding Jerusalem
 
 ### Ahasuerus/Ahashverosh/Artaxerxes
-__NEED SOMETHING__
+* Allowed the people of Judah to return from exile and rebuild the temple
 
 ### Zedekiah
 * King of Judah during Babylonian exile. Appointed by Nebuchadnezzar. He did evil in the Lord's eyes. He later rebels against Babylon and is punished.
@@ -122,8 +126,6 @@ __NEED SOMETHING__
   * Jeremiah says to submit.
   * An opposing prophet, [Heneniah](#Heneniah) says that they should fight.
     * This is not something that was a crazy idea, because of the previous precedent with [Isaiah](#Isaiah), where God defended the temple.
-
-
 
 ### Ezekiel
 * Sees a vision from God, and has to lie on his side 390 days and then 40 days on the other to represent the two kingdoms.
@@ -205,6 +207,7 @@ __NEED SOMETHING__
 * Esther is the most hotly debated of the [Unholy Trinity](#UnholyTrinity)
 * Even Martin Luther hated the book of Esther.
 * There is no mention of God, Prayer, the commandments, the temp, the promised land, or even Israel.
+* Esther breaks some of the law (Intermarriage)
 * There are multiple versions of Esther:
   * [Beta-Text](#Beta-text)
     * From the Septuagint
@@ -340,10 +343,9 @@ __NEED SOMETHING__
 
 ### Ten Lost Tribes
 * When Israel was attacked by the Assyrians, they were ransacked.
-* They were then called the 10 lost tribes
+* All the tribes except Judah and Benjamin were then considered "lost"
 * At this time, there was only one descendant of David
   * It was most likely so that a connection to the kingship could be made from Jesus all the way back
-
 
 ### Mari
 __NEED SOMETHING__
@@ -355,20 +357,16 @@ __NEED SOMETHING__
 __NEED SOMETHING__
 
 ### Jerusalem
-__NEED SOMETHING__
-
-### Ten Lost Tribes
-__NEED SOMETHING__
+* Capital of Judah and location of the temple
 
 ### Inanna/Ishtar
 __NEED SOMETHING__
 
 ### Northern Kingdom/Israel
-* The northern, more rich area of Jerusalem
+* The northern kingdom; wealthier than Israel. Ransacked before Judah
 
 ### Southern Kingdom/Judah
-* On the south side
-* Has Solomon's Temple
+* Kingdom of Judah, location of The Temple. Capital was Jerusalem.
 
 # Concepts, Terms, Scholars, Authors
 ## Criticisms
@@ -380,7 +378,7 @@ __NEED SOMETHING__
   * Example: [Esther](#Esther)
 
 ### Structural Criticism
-* Coined by [Claude Levy-straws](#Claude-Levi-Strauss).
+* Coined by [Claude Levy-Strauss](#Claude-Levi-Strauss).
   * All humans percieve the world in binaries
     * Binaries: One side is always good, one is bad. Up is good, down is bad.
     * One such example is [Ruth](#Ruth). There is the binary of we/they.
@@ -405,10 +403,11 @@ __NEED SOMETHING__
 
 ## Terms
 ### Wisdom Literature
-* There is no structure / order
+* There is no discernable structure / order
 * Think of it as to like an accumulation of things
-* Similar to how we view phonebooks or dictionaries
-* Similar to how the Kuran was written.
+* Meant to be referenced, not read (like a phonebook)
+* Entirely secular
+* Similar to how the Quran was written.
 
 ### Triangulation
 * The idea of triangulation is that you should have a 3rd source whenever you want to verify the integrity of a source. We want something to verify the text and to "get our bearing" so to speak.
