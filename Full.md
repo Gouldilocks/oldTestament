@@ -91,8 +91,8 @@ __NEED SOMETHING__
 # Prophets
 ### Amos
 * Who was the author?
-  * Possibly Amos himself, or someone in the audience
-  * Possibly someone from Judah
+  * Implied author: Amos and God
+  * Author: Unknown, maybe made up
 * Amos 1:3
   * Talking about neighbors of the kingdom of israel, so it made the northern part happy.
   * The wealth in the north is the result of the exploitation of the poor
