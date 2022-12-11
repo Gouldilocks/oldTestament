@@ -60,20 +60,21 @@ Very hard to date events up until this point in history.
 __NEED SOMETHING__
 
 ### Josiah
-* Third King in the book of kings. Descended from David
+* Third King in the book of kings. Descended from David.
 * Finds the "hidden documents" and repents.
+* God is still angry after his reign.
 
 ### Jehoiachin
-__NEED SOMETHING__
+* King of Judah, successor of Jehoiakim.
 
 ### Sennacherib
 __NEED SOMETHING__
 
 ### Nebuchadnezzar
-__NEED SOMETHING__
+* King of Babylon. Took many people of Jerusalem into exile.
 
 ### Cyrus
-* King of persia durring the time of Jerusalem being conquered
+* King of persia during the time of Jerusalem being conquered
 
 ### Jeroboam II
 __NEED SOMETHING__
@@ -85,7 +86,7 @@ __NEED SOMETHING__
 __NEED SOMETHING__
 
 ### Zedekiah
-__NEED SOMETHING__
+* King of Judah during Babylonian exile. Appointed by Nebuchadnezzar. He did evil in the Lord's eyes. He later rebels against Babylon and is punished.
 
 # Prophets
 ### Amos
