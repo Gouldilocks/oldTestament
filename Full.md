@@ -9,6 +9,12 @@ BCE 612: Fall of Nineveh
 BCE 609: Assyria is completely gone
 BCE 586: Judah is destroyed by Babylonians (Nebuchadnezzar)
 BCE 561: End of Kings
+BCE 561: King Jeroboam becomes king
+BCE 539: Cyrus
+BCE 539: King cyrus of Persia takes over Babylonia
+BCE 539-515: Beginning of Ezrah
+BCE 521-520: Darius
+BCE 458: End of Ezrah
 ```
 
 # Kings
@@ -17,42 +23,94 @@ BCE 561: End of Kings
 * The narrative of the book more closely follows traditional history. That is why we get some hard and fast dates for this time period
 * Starting with the times in David and Solomon, we can start to use the Bible for history, because 3rd sources back it up.
 ### Saul
-* The Amalekite who killed Saul
+* The Amalekite who killed Saul, *Ish-Boshtheth*
   * What was he doing on the Battlefield?
     * Most likely he was scavenging, but David claims that he had killed Saul after Saul asked to be killed (Serge does not think that is what happened. He thinks that David conspired to kill him and covered his tracks).
 * Saul was one of the people who "magically" died while [David](#David) was rising to power
 
 ### David
 * See the killing of [Saul](#Saul)
-
+* See [History of David's Rise](#history-of-david's-rise)
+* David built the Kingdom, Solomon destroyed it
 
 ### Solomon
 * First King in the book of kings. Descended from [David](#David)
 Very hard to date events up until this point in history.
 * Serge claims that he is NOT the writer of [Ecclesiastes](#Ecclesiastes)
+* Serge says that there is no way Solomon wrote it
+  * He says there is too much persian writing in it
+* everything is great, inherits huge kingdom by his father King David
+* Solomon comes for the Hebrew word shalom which means Peace
 
 ### Jeroboam I
+* People rebelled against Rehoboam and chose Jeroboam as their king
+
 ### Hezekiah
 * Second king in the book of kings. Descended from David
+* Tells us Senacchari overtakes Jerusalem since Hezekiah was causing trouble
+* indirectly confirms something else the Bible tells us
+* Up to this point, we were reading historical in a way it was an event on the past
+
 ### Manasseh
+__NEED SOMETHING__
+
 ### Josiah
 * Third King in the book of kings. Descended from David
 * Finds the "hidden documents" and repents.
+
 ### Jehoiachin
+__NEED SOMETHING__
+
 ### Sennacherib
+__NEED SOMETHING__
+
 ### Nebuchadnezzar
+__NEED SOMETHING__
+
 ### Cyrus
+* King of persia durring the time of Jerusalem being conquered
+
 ### Jeroboam II
+__NEED SOMETHING__
+
 ### Darius
+* Other king of persia after king [Cyrus](#Cyrus)
+
 ### Ahasuerus/Ahashverosh/Artaxerxes
+__NEED SOMETHING__
+
 ### Zedekiah
+__NEED SOMETHING__
 
 # Prophets
 ### Amos
+* Who was the author?
+  * Possibly Amos himself, or someone in the audience
+  * Possibly someone from Judah
+* Amos 1:3
+  * Talking about neighbors of the kingdom of israel, 
+
 ### Hosea
+
 ### Isaiah
+
 ### Jeremiah
+* When God asks him to go prophecy, he wants to not go, and complains.
+* Prophets would commonly say no to becoming a prophet
+  * They were usually people who had bad things happen to them for the purpose of showing God is serious.
+
+* The king of Judah asks the prophets about [Babylon](#Babylon), whether they should revolt against them, or just surrender.
+  * Jeremiah says to submit.
+  * An opposing prophet, [Heneniah](#Heneniah) says that they should fight.
+    * This is not something that was a crazy idea, because of the previous precedent with [Isaiah](#Isaiah), where God defended the temple.
+
+
+
 ### Ezekiel
+* Sees a vision from God, and has to lie on his side 390 days and then 40 days on the other to represent the two kingdoms.
+* In Ezekiel 47, there is a parallel to the garden of eden.
+* Was a prophecy to the return of the garden of eden
+
 ### Jonah
 * Jonah is one of the 12 minor prophets
 * Very unique book, has a lot of comedic parts to it
@@ -74,31 +132,56 @@ Very hard to date events up until this point in history.
     * Why is it a sacrifice?
       * Because at the time of the books writing, Jerusalem had been sacked by Nineveh, and the book is set before that time. The sacrifice here is Jerusalem. That is also why it is shown that Jonah was so upset about them being spared. 
   * The book shows that God *Does* sacrifice the innocent for the sake of the sinner
+
 ### Zephaniah
 * Has mixed messages of Doom and salvation
+
 ### Habakuk
+
 ### Zechariah
+* God's world is different, so using that [Mysticism](#Mysticism), we know Zechariah is actually seeing God.
+* This is time after the exile, so he really has to work for his credentials.
+  
 ### Hananiah
 
 # Other Biblical and Post-Biblical Characters
 ### Ishbosheth
+
 ### Joab
+
 ### Bathsheba
+* The woman who [David](#David) committed adultery with.
+* After he impregnated her, he tried to get her husband killed.
+
 ### Uriah
+* [David's](#David) faithful servant who was sent to his death.
+* His wife was [Bathsheba](#Bathsheba)
+
 ### Absalom
+
 ### Amaziah
+
 ### Ruth
+* What happened in Ruth?
+  * Death, famine, exile, misery, poverty, birth, plenty, homeland, joy, prosperity, then restoration
+  * Because of the movement from sadness to happiness (ignoble -> noble), then this is a comedy.
+  * She was someone who broke barriers in the binaries. See [Structural Criticism](#Structural-Criticism)
+
+* One can use [Structural Criticism](#Structural-Criticism) on this book.
+
 ### Naomi
+
 ### Boaz
+
 ### Esther
 * Esther is the most hotly debated of the [Unholy Trinity](#UnholyTrinity)
 * Even Martin Luther hated the book of Esther.
 * There is no mention of God, Prayer, the commandments, the temp, the promised land, or even Israel.
 * There are multiple versions of Esther:
-  * Beta-Text
+  * [Beta-Text](#Beta-text)
     * From the Septuagint
     * Only has additions
-  * Alpha-Text
+  * [Alpha-Text](#Alpha-text)
     * From the Masoretic Text
     * Had the same additions but also some stuff removed
   * Original Masoretic Text
@@ -114,15 +197,30 @@ Very hard to date events up until this point in history.
     * In these edited versions, Hamon comes earlier for his betrayal *Before* The new queen part.
     * This is because people had a problem with Esther intermarrying for self gain.
     * This way, the new story now shows that she was intermarrying just to save her people, not self gain.
-  
-  
 
 ### Mordechai
+* The cousin of [Esther](#Esther).
+* He gains power because of her. [Haman](#Haman) wanted to kill him, and that is what prompted [Esther](#Esther) to go to the king in the first place.
+
 ### Haman
+* The evil second in command to the king in the story of [Esther](#Esther)
+* He is the one who wanted to get [Mordechai](#Mordechai) killed.
+* Ended up being killed on the very guillotine that was build for his enemy.
+
 ### Lady Israel
 * Personified as a woman in the song of songs and prophetic books
+
 ### Ezra
+* Ezra goes to Jerusalem to see if people are following the torah
+  * He sees that people are intermarrying and gets super upset
+  * The people then repent
+
+* Ezra says that conversion is not really possible
+* Clearly, the book of [Ruth](#Ruth) disagrees.
+
 ### Samuel
+* Strong part of the Christian Cannon
+
 ### Ecclesiastes
 * Coined a "Self help book" by Serge himself
 * Reflective / Speculative / Critical.
@@ -148,28 +246,52 @@ Very hard to date events up until this point in history.
     * If you feel disturbed, just listen to the commandments
 ### Suffering Servant
 * In terms of Isaiah 53
+* This is a clear parallel to Jesus. The argument is that Jesus is our suffering servant.
+* There is an argument to be made that the suffering servant just represents some random prophet, but Christians believe that it is talking about Jesus.
+
 ### Messiah/Christ
+* The messiah of the world, from the new Testament. You gotta know this guy, yeah?
+
 ### Father Mapple
+
 ### Teacher of Righteousness
+
 ### Wicked Priest
+
 ### Jonathan
+
 ### Goliath
+
 ### Tamar
+
 ### Amnon
+
 ### Abner
+
 ### Amasa
+
 ### Adonijah
+
 ### Lady Wisdom
 
 # Places, Countries, Peoples, Artifacts, and One Goddess
 ### Bethel
+
 ### Samaria
+
 ### Nineveh
+
 ### Assyria
+
 ### Babylon
+* See context about [Jeremiah](#Jeremiah)
+
 ### Persia
+
 ### Chaldeans
+
 ### Moab
+
 ### Ten Lost Tribes
 * When Israel was attacked by the Assyrians, they were ransacked.
 * They were then called the 10 lost tribes
@@ -178,12 +300,19 @@ Very hard to date events up until this point in history.
 
 
 ### Mari
+
 ### Kittim/Romans
+
 ### Bethlehem
+
 ### Jerusalem
+
 ### Ten Lost Tribes
+
 ### Inanna/Ishtar
+
 ### Northern Kingdom/Israel
+
 ### Southern Kingdom/Judah
 * Has Solomon's Temple
 
@@ -195,9 +324,24 @@ Very hard to date events up until this point in history.
   * Figuring out if there are mistakes in the scripture
   * By comparing different versions, we can learn more about each version
   * Example: [Esther](#Esther)
+
 ### Structural Criticism
+* Coined by [Claude Levy-straws](#Claude-Levi-Strauss).
+  * All humans percieve the world in binaries
+    * Binaries: One side is always good, one is bad. Up is good, down is bad.
+    * One such example is [Ruth](#Ruth). There is the binary of we/they.
+    * The "we" is the people of Israel.
+    * The "They" is Ruth.
+    * Ruth does not agree to that binary, and therefore __Converts__.
+    * Ruth also does not conform to the binary of men and women in that age.
+      * In those times, women __Never__ made the first move, yet she does by sleeping at the man's feet, and is praised for it.
+  * [Ruth](#Ruth) is therefore a binary-breaker.
+  * 
+
 ### Redaction Criticism
+
 ### Historical Criticism
+
 ### Reader-Response Criticism
 
 ## Terms
@@ -206,17 +350,38 @@ Very hard to date events up until this point in history.
 * Think of it as to like an accumulation of things
 * Similar to how we view phonebooks or dictionaries
 * Similar to how the Kuran was written.
-* 
+
 ### Triangulation
 * The idea of triangulation is that you should have a 3rd source whenever you want to verify the integrity of a source. We want something to verify the text and to "get our bearing" so to speak.
+
 ### Rhetoric
+* See:
+  * [Wisdom Literature](#Wisdom-literature)
+  * [Allegorization](#Allegorization)
+  * [Theodicy](#Theodicy)
+  * [Symbolic Action](#Symbolic-Action)
+  * [Mysticism](#Mysticism)
+  
 ### Actualization
+* This is when a prophecy made by a prophet is actually fulfilled by God
+* This is how we know if a prophet is a false prophet or not
+
 ### Allegorization
+* Basically an extended metaphor
+* Used in the Song of Solomon, where it is a discussion between the Church and God.
+  * This allegory is what makes Song of Solomon important.
+  * Basically, people are complaining, that God is not treating them well, and that not everything was their fault.
+  * It raises the issues of:
+    * Why is God so Elusive?
+    * Why is God so distant?
+
 ### Theodicy
 * Answers the question of: Why is this world made by God, created by God, organized so poorly?
   * This is basically the idea of apologetics.
   * It is clear that Serge believes this term should mean when people went back to the Bible and edited it in order to make it more appropriately match their views. I don't buy it, but thats what he believes clearly.
+
 ### Davidic Promise
+
 ### Deconstruction
 * Put into gaps things that the author did not want you to think about
   * Reading against the grain so to speak
@@ -226,7 +391,15 @@ Very hard to date events up until this point in history.
     * This is the history of [David's](#David) rise
       * Commonly knowwn to be Apologetics, since it appears to be trying to justify something in the Bible.
       * This is a hypertext
+
 ### Symbolic Action
+* Definition: When a prophet does something crazy which symbolizes God's plan.
+* Uses people's curiosity and gets their attention
+* If people see a prophet acting in these weird and crazy ways, then he __must__ be talking to God. It establishes some ethos.
+* Examples:
+  * [Ezekiel(#Ezekiel) sees God's chariot in a dream, and then other things that God defines
+    * As a result, he makes a model city and has to lie on his left side 390 days and the other side 40.
+
 ### Unholy Trinity
 * The unholy Trinity is the name Serge coined for the 3 books of the Bible that do not mention God, the commandments, or any of the sacraments. They are:
   * [Esther](#Esther)
@@ -234,38 +407,81 @@ Very hard to date events up until this point in history.
   * [Song of Songs](#SongOfSongs)
   
 * We know that there were debates about if they should be in the Bible.
+
 ### Alpha-text
+* Refers to one of the versions of [Esther](#Esther)
+* This one has additions and deletions
+  * Notably changes to how intermarriage is viewed.
+  * As a necessity instead of for personal gain.
+* Tries to make the book more pious by adding talks of God and the commandments
+
 ### Beta-text
+* Refers to the other version of [Esther](#Esther)
+* This one only has additions
+  * Notably changes to how intermarriage is viewed.
+  * As a necessity instead of for personal gain.
+* Tries to make the book more pious by adding talks of God and the commandments
+
 ### Deuternonomistic History
+* Any part of the Bible following the rules laid out in Deuteronomy
+* Usually referred to in terms of kingship
+
 ### Mysticism
+* Whenever a prophet does something supernatural in order to make people listen.
+  * It helps the prophet push their message
+
 ### Succession Narrative/Court History
+* 
 ### "Stories"
+* 
 ### Didactic
 * The genre that is all *instructions or teachings*
 * Proverbs is Didactic
   * The opposite type of writing is like the writings in Job or [Ecclesiastes](#Ecclesiastes)
+  
 ### reflective/speculative/critical
+* 
 ### Deutero-Isaiah
+* 
 ### Typology
 
-
 ## People
+
 ### Stefan Heym
+
 ### Claude Levi-Strauss
+
 ### Martin Noth
+
 ### William F. Albright
-* Coined the term [Historical Criticism](#HistoricalCriticism).
+* Coined the term [Historical Criticism](#Historical-Criticism).
+
 ### History of David's Rise
 * As we move on in the story, everyone who stands in the way of [David](#David) just dies.
   * We do not know if he was in any way involved.
   * Would a "Man after God's own heart" be able to secretly murder people?
 
-* We know for a fact that he had Uriah killed after sleeping with his wife.
+* We know for a fact that he had [Uriah](#Uriah) killed after sleeping with his wife.
   * Here David commits multiple crimes:
-    * Adultery - with Bathsheba
+    * Adultery - with [Bathsheba](#Bathsheba)
     * Conspiracy - to murder
-    * Breach of faith - betrays his faithful soldier
+    * Breach of faith - betrays his faithful soldier [Uriah](#Uriah)
     * *All of these were punishable by death*
     
-  * *David is treated in a __Special__, and an __Exclusive__ way different to that of [Saul](#Saul)
+* [David](#David) was anointed in oil, which is a direct parallel to the [Messiah](#Messiah/Christ).
+  * Jesus came from the bloodline of David, and this is why people believed that Jesus was going to rule when he came.
+  
+* Does God want to establish a dynasty for someone like David? Is it in his best interest?
+  * In 1 Samuel, it is said that having a king is like idolatry. He punishes them by giving them exactly what they wants.
+  * In that book Samuel says that the King will be evil, and it is clear that he is fulfilling the prophecy.
+
+* The rise of [David](#David) is a clear example of [Redaction Criticism](#redaction-criticism).
+  * The text would not loose its coherence if we skipped 2 Samuel 10-12.
+    * These chapters just have Nathan saying that the sword will never leave him, and 2 Samuel 13-24 never mentions Nathans curses.
+    * Therefore, 2 Samuel 1-9 and 2 Samuel 13-24 are Deuteronomistic History, because kings are viewed as positive, as long as they follow certain rules.
+    * __Serge__ believes that 2 Samuel 10-12 were added in retrospect.
+      * If you believe in this interpretation, then it is very hard to believe David was blameless.
+    
+  * [David](#David) is treated in a __Special__, and an __Exclusive__ way different to that of [Saul](#Saul)
+
 ### Wolfgang Iser  
