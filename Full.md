@@ -160,14 +160,9 @@ __NEED SOMETHING__
 ### Zephaniah
 * Has mixed messages of Doom and salvation
 
-<<<<<<< HEAD
-### Habakuk (Late 7th Century BC)
-* Complained to God that Israel was still suffering even though they were obeying Him
-=======
 ### Habakuk
 * The Bible contains a lesson. 
 * They think that Habakkuk was preaching the teacher of righteousness, wicked priest, everything in between, writing about his own time
->>>>>>> c7bcf33b1c885a85164daf2fd5368e6acc528906
 
 ### Zechariah
 * God's world is different, so using that [Mysticism](#Mysticism), we know Zechariah is actually seeing God.
@@ -192,13 +187,9 @@ __NEED SOMETHING__
 * His wife was [Bathsheba](#Bathsheba)
 
 ### Absalom
-<<<<<<< HEAD
-* One of King David's sons. Rebelled against King David and killed by Joab and his men.
-=======
 * David's oldest son, who was sacrificed
 * Murdered Amnon, because he slepth with his sister
 * God killed him because [David](#David) killed [Uriah](#Uriah)
->>>>>>> c7bcf33b1c885a85164daf2fd5368e6acc528906
 
 ### Amaziah
 * Son of Joash. He did good in the Lord's eye. Fought against northern kingdom and lost.
@@ -212,20 +203,12 @@ __NEED SOMETHING__
 * One can use [Structural Criticism](#Structural-Criticism) on this book.
 
 ### Naomi
-<<<<<<< HEAD
-* Naomi's daughter-in-law. Israelite, her children and husband die.
-=======
 * The woman who lost her sons and Husband. She was the mother in-law of [Ruth](#Ruth).
 * Was a relative to [Boaz](#Boaz)
->>>>>>> c7bcf33b1c885a85164daf2fd5368e6acc528906
 
 ### Boaz
-<<<<<<< HEAD
-* Naomi's relative, marries Ruth.
-=======
 * From Bethlehem, from the family of [Naomi](#Naomi).
 * Ended up marrying [Ruth](#Ruth), because another guy did not want her.
->>>>>>> c7bcf33b1c885a85164daf2fd5368e6acc528906
 
 ### Esther
 * Esther is the most hotly debated of the [Unholy Trinity](#UnholyTrinity)
@@ -308,23 +291,14 @@ __NEED SOMETHING__
 * The messiah of the world, from the new Testament. You gotta know this guy, yeah?
 
 ### Father Mapple
-<<<<<<< HEAD
-* Whaler in Moby Dick. Preaches a sermon about Jonah.
-=======
 * A former whaler, he has become a preacher in the New bedford Whaleman's chapel.
-* Gives a sermon on Jonah
-* Was a person in Moby Dick
->>>>>>> c7bcf33b1c885a85164daf2fd5368e6acc528906
+* Preaches a sermon about Jonah.
 
 ### Teacher of Righteousness
 * Someone we do not know, founder of Qumran community or leader
 
 ### Wicked Priest
-<<<<<<< HEAD
 * Enemy of the Teacher of Righteousness. 
-=======
-* Nemesis of the teacher of righteousness
->>>>>>> c7bcf33b1c885a85164daf2fd5368e6acc528906
 
 ### Jonathan
 * Saul's son and David's friend. Killed by Philistines.
@@ -434,11 +408,7 @@ __NEED SOMETHING__
 * Seen in 2 Samuel. See [David](#David)
 
 ### Historical Criticism
-<<<<<<< HEAD
 * Using the Bible as a historical source
-=======
-* Zenachary attack on Jerusalem happened, but the Bible says that it doesn't
->>>>>>> c7bcf33b1c885a85164daf2fd5368e6acc528906
 
 ### Reader-Response Criticism
 __NEED SOMETHING__
