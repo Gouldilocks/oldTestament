@@ -83,16 +83,16 @@ Very hard to date events up until this point in history.
 * King of persia durring the time of Jerusalem being conquered
 
 ### Jeroboam II
-__NEED SOMETHING__
+* Did evil in God's eyes. 
 
 ### Darius
 * Other king of persia after king [Cyrus](#Cyrus)
 
 ### Ahasuerus/Ahashverosh/Artaxerxes
-__NEED SOMETHING__
+* King of Persia. Freed Israelites from Babylonian exile.
 
 ### Zedekiah
-__NEED SOMETHING__
+* King of Judah. He did evil in the Lord's eyes. He rebelled against Babylon and Jerusalem was besiged and he was captured.
 
 # Prophets
 ### Amos
@@ -113,10 +113,10 @@ __NEED SOMETHING__
 * The question left to us at the end is: __Are we next?__
 
 ### Hosea
-__NEED SOMETHING__
+* God ordered him to marry a promiscuous woman. His relationship with her was an example of God's relationship with Israel.
 
 ### Isaiah
-__NEED SOMETHING__
+* Prophesized about the Messiah. Prophesized to pre and post-exile Israel.
 
 ### Jeremiah
 * The weeping prophet
@@ -316,17 +316,17 @@ Rapes his half-sister Tamar and is killed by her brother Absalom.
 * Son of the commander of Saul's army. Killed by Joab.
 
 ### Amasa
-__NEED SOMETHING__
+* Relative of David, killed by Joab.
 
 ### Adonijah
-__NEED SOMETHING__
+* One of David's children, attempted to take the throne from Solomon. Later put to death by Solomon.
 
 ### Lady Wisdom
 * Personification of God's wisdom
 
 # Places, Countries, Peoples, Artifacts, and One Goddess
 ### Bethel
-__NEED SOMETHING__
+* Golden calves were erected here
 
 ### Samaria
 __NEED SOMETHING__
@@ -335,7 +335,7 @@ __NEED SOMETHING__
 * City that Jonah is ordered to prophesize to. The people repent upon hearing Jonah's message. Capital of Assyria.
 
 ### Assyria
-__NEED SOMETHING__
+* Conquered the Northern Kingdom
 
 ### Babylon
 * See context about [Jeremiah](#Jeremiah)
@@ -344,10 +344,10 @@ __NEED SOMETHING__
 * Takes over after Babylon. 
 
 ### Chaldeans
-__NEED SOMETHING__
+* Babylonians
 
 ### Moab
-__NEED SOMETHING__
+* Ruth was a Moabite. Banned from the assembly of God for not welcoming the Israelites after they left Egypt.
 
 ### Ten Lost Tribes
 * When Israel was attacked by the Assyrians, they were ransacked.
@@ -370,10 +370,10 @@ __NEED SOMETHING__
 __NEED SOMETHING__
 
 ### Ten Lost Tribes
-__NEED SOMETHING__
+* 10 tribes sent into exile after Assyrian invasion. All tribes except Judah and Benjamin.
 
 ### Inanna/Ishtar
-__NEED SOMETHING__
+* Mesopotamian goddess of love, war, and fertility.
 
 ### Northern Kingdom/Israel
 * The northern, more rich area of Jerusalem
