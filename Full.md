@@ -18,7 +18,26 @@ BCE 458: End of Ezrah
 ```
 
 # Match proph. Books to century
-* Ebediah, joel, malechi
+* Ebediah, joel, malechi: NO TIME KNOWN
+
+* 8TH CENTURY BCE - NORTHERN KINGDOM
+  * Amos
+  * Isaiah
+  * Micah
+  * Jonah
+* LATE 7TH CENTURY BCE
+  * Zephaniah
+  * Habakkuk
+  * Nahum (directed against Jerusalem)
+* EARLY 6TH CENTURY
+  * Jeremiah
+  * Ezekiel
+* LATE 6TH CENTURY
+  * Haggai
+  * Zechariah
+* LATE 7TH CENTURY: SPECTACULAR FALL OF ASSYRIA
+  * Nineveh
+
 
 # Genres
 * [Didactic](#Didactic)
@@ -83,16 +102,16 @@ Very hard to date events up until this point in history.
 * King of persia durring the time of Jerusalem being conquered
 
 ### Jeroboam II
-__NEED SOMETHING__
+* The people had prosperity under his rule. Very much a Deuteronomistic King
 
 ### Darius
 * Other king of persia after king [Cyrus](#Cyrus)
 
 ### Ahasuerus/Ahashverosh/Artaxerxes
-__NEED SOMETHING__
+* Artaxerxes was the son of king Xerxes in Persia 
 
 ### Zedekiah
-__NEED SOMETHING__
+* Zedekiah was the last king of Judah and was king when Jerusalem and the temple were destroyed by Babylon in 586 BC and the majority of the people were carried into exile
 
 # Prophets
 ### Amos
@@ -113,10 +132,15 @@ __NEED SOMETHING__
 * The question left to us at the end is: __Are we next?__
 
 ### Hosea
-__NEED SOMETHING__
+* The central theme of Hosea’s prophetic messages was Israel’s unfaithfulness to God.
+* Following the Lord’s instruction, Hosea married a prostitute to symbolically and poignantly portray Israel’s infidelity to Yahweh.
+* When the Lord first began to speak to Israel through Hosea, God told the prophet, “Go and marry a prostitute, so that some of her children will be conceived in prostitution.
+* This will illustrate how Israel has acted like a prostitute by turning against the LORD and worshiping other gods”
 
 ### Isaiah
-__NEED SOMETHING__
+* Saw visions of God on his high throne
+* Isaiah talks about the [Suffering Servant](#Suffering-Servant)
+* Set up the precedent that God protects his temple
 
 ### Jeremiah
 * The weeping prophet
@@ -158,25 +182,30 @@ __NEED SOMETHING__
   * The book shows that God *Does* sacrifice the innocent for the sake of the sinner
 
 ### Zephaniah
-* Has mixed messages of Doom and salvation
+* Has mixed messages of Doom and salvation:
+  * if they repent, they will be saved, if no,they will be doomed 
 
 ### Habakuk
 * The Bible contains a lesson. 
 * They think that Habakkuk was preaching the teacher of righteousness, wicked priest, everything in between, writing about his own time
+* The book says it is talking about the [Chaldeans](#Chaldeans), but the commentary says it is actually talking about the Romans 
 
 ### Zechariah
 * God's world is different, so using that [Mysticism](#Mysticism), we know Zechariah is actually seeing God.
 * This is time after the exile, so he really has to work for his credentials.
   
 ### Hananiah
-* The false prophet
+* The false prophet. Opposed [Jeremiah](#Jeremiah)
 
 # Other Biblical and Post-Biblical Characters
 ### Ishbosheth
-* Saul's son, proclaimed king after Saul's death. Fights with David and is killed by his own men. His killers are put to death by David.
+* fourth son of King Saul and the last representative of his family to be king over Israel
+* Was killed by [David](#David)
+  * Most likely so that David could become king
 
 ### Joab
-* One of David's men, murdered Abner.
+* a Jewish military commander under King David, who was his mother's brother. He led the commando party that captured Jerusalem for David and as a reward was appointed commander in chief of the army
+* Killed [Abner](#Abner) by decree of David
 
 ### Bathsheba
 * The woman who [David](#David) committed adultery with.
@@ -192,7 +221,9 @@ __NEED SOMETHING__
 * God killed him because [David](#David) killed [Uriah](#Uriah)
 
 ### Amaziah
-* Son of Joash. He did good in the Lord's eye. Fought against northern kingdom and lost.
+* Decent king, but not as good as David
+* “He did what was right in the eyes of the LORD, but not as his father David had done” (2 Kings 14:3).
+* One of Amaziah’s failings was that, while he led the people of Judah in worshiping the Lord, he failed to remove the high places where people continued to sacrifice and burn incense in violation of God’s instruction to offer sacrifices in Jerusalem
 
 ### Ruth
 * What happened in Ruth?
@@ -292,62 +323,75 @@ __NEED SOMETHING__
 
 ### Father Mapple
 * A former whaler, he has become a preacher in the New bedford Whaleman's chapel.
-* Preaches a sermon about Jonah.
+* Gives a sermon on Jonah
+* Was a person in Moby Dick
 
 ### Teacher of Righteousness
 * Someone we do not know, founder of Qumran community or leader
 
 ### Wicked Priest
-* Enemy of the Teacher of Righteousness. 
+* Nemesis of the teacher of righteousness
 
 ### Jonathan
-* Saul's son and David's friend. Killed by Philistines.
+* The eldest son of King Saul
+* He Helped David out while Saul was trying to find him
 
 ### Goliath
-* Philistine and David's opponent.
+* Philistine who was huge. David killed him
 
 ### Tamar
-* Amnon, son of King David, fell in love with Tamar, his half-sister. He rapes her and is later killed by Absalom.
-
+* Tamar, whose story is embedded in the ancestor narratives of Genesis, is the ancestress of much of the tribe of Judah and, in particular, of the house of David.
+ 
 ### Amnon
-Rapes his half-sister Tamar and is killed by her brother Absalom.
+* the oldest son of King David and his second wife, Ahinoam of Jezreel
 
 ### Abner
-* Son of the commander of Saul's army. Killed by Joab.
+* Was killed by [Joab](#Joab) by the command of [David](#David)
 
 ### Amasa
-__NEED SOMETHING__
+* Amasa was a nephew of David, and cousin of Joab, David's military commander, as well as a cousin of Absalom, David's son
 
 ### Adonijah
-__NEED SOMETHING__
+* Adonijah was born at Hebron during the long conflict between David and the House of Saul. 
+* In 1 Kings, he briefly proclaimed himself king of Israel during the terminal illness of his father David, before peacefully ceding the throne to his brother Solomon.
 
 ### Lady Wisdom
-* Personification of God's wisdom
+* Talked about in Proverbs 8:22
+* Here we learn that it is implied that wisdom was there before God
 
 # Places, Countries, Peoples, Artifacts, and One Goddess
 ### Bethel
-__NEED SOMETHING__
+* Golden calf by jeroab
+* Northern kingdom
+* Where [Amos](#Amos) talked about locusts coming and killing all their crops
 
 ### Samaria
-__NEED SOMETHING__
+* Samaria (Hebrew: Shomron) is mentioned in the Bible in 1 Kings 16:24 as the name of the mountain on which Omri, ruler of the northern Israelite kingdom in the 9th century BCE, built his capital, naming it also Samaria
 
 ### Nineveh
-* City that Jonah is ordered to prophesize to. The people repent upon hearing Jonah's message. Capital of Assyria.
+* The place where Jonah went to save the people
+* Nineveh ended up destroying Jerusalem
+* They were [Assyrian](#Assyria)
 
 ### Assyria
-__NEED SOMETHING__
+* They destroy the Northern Kingdom.
+* [Nineveh](#Nineveh) was a part of Assyria
 
 ### Babylon
 * See context about [Jeremiah](#Jeremiah)
+* Rose to power alongside Egypt after assyria fell
 
 ### Persia
-* Takes over after Babylon. 
+* Kingdom who takes over [Babylon](#Babylon)
 
 ### Chaldeans
-__NEED SOMETHING__
+* The book of [Habakkuk](#Habakkuk) says it is talking about these peoples, but the commentary says it is actually talking about the Romans 
 
 ### Moab
-__NEED SOMETHING__
+* Scripture in the 19th century
+* Speaks of Moab: King Mesha
+* King Umri of Israel oppressed Messoa. Kemoah the deity was angry with his country but Imesha became King. Son of Omri said I will oppress Moab but then will kick ass
+* King omri of northern kingdom: Moab, recent possession
 
 ### Ten Lost Tribes
 * When Israel was attacked by the Assyrians, they were ransacked.
@@ -355,25 +399,24 @@ __NEED SOMETHING__
 * At this time, there was only one descendant of David
   * It was most likely so that a connection to the kingship could be made from Jesus all the way back
 
-
 ### Mari
-__NEED SOMETHING__
+* Psychics - a lot in the ancient middle east, like in the city MARI IN NORTHERN MESOPOTAMIA
+* See [Mysticism](#Mysticism)
 
 ### Kittim/Romans
-__NEED SOMETHING__
+* Habakkuk said he is talking about [chaldeans](#Chaldeans) but the commentary says he is talking about Romans
 
 ### Bethlehem
 * Rachel, wife of Jacob was buried in Bethlehem
 * [Boaz](#Boaz) was from Bethlehem and welcomed [Ruth](#Ruth)
 
 ### Jerusalem
-__NEED SOMETHING__
-
-### Ten Lost Tribes
-__NEED SOMETHING__
+* [David](#David) Brought the Ark here
+* Babylonians destroyed the temple here in 586 BCE
+* The siege of Jerusalem was [Historical Criticism](#Historical-Criticism)
 
 ### Inanna/Ishtar
-__NEED SOMETHING__
+* goddess of human sexuality and goddess of war
 
 ### Northern Kingdom/Israel
 * The northern, more rich area of Jerusalem
@@ -408,10 +451,16 @@ __NEED SOMETHING__
 * Seen in 2 Samuel. See [David](#David)
 
 ### Historical Criticism
-* Using the Bible as a historical source
+* Zenachary attack on Jerusalem happened, but the Bible says that it doesn't
 
 ### Reader-Response Criticism
-__NEED SOMETHING__
+* Coined by [Wolfgang Iser](#Wolfgang Iser)
+* Begins like form criticism 
+* Every text is a communication
+* But the difference is that
+* Form Criticism does this: autor -> text -> audience
+* Reader response criticism does this: author -> implied author -> text -> implied audience -> audience
+  * We look at the implied author and implied audience and read it in that context
 
 ## Terms
 ### Wisdom Literature
@@ -504,8 +553,10 @@ __NEED SOMETHING__
   * It helps the prophet push their message
 
 ### Succession Narrative/Court History
-__NEED SOMETHING__
-* 
+* S Samuel 9-20 + 1 King 1-1.
+* In Genesis, it is historical narrative and not stories.
+* Succession narrative is throught to be an ancient text inserted into 2 Samuel. See [David](#David)
+
 ### "Stories"
 * Stories about private individuals like:
   * [Esther](#Esther)
@@ -536,10 +587,15 @@ __NEED SOMETHING__
 * Writer of the King David Report
 
 ### Claude Levi-Strauss
-__NEED SOMETHING__
+* Coined [Structural Criticism](#Structural-Criticism)
+* All humans perceive the world in binaries
+* One side is always good, the other side is bad
+* Ruth breaks one of the most powerful venues
+* Ruth basically says she is not “they” she is “we” 
+* Ruth is chasing Boaz not Boaz chasing her
 
 ### Martin Noth
-__NEED SOMETHING__
+* Wrote a book called "Deuteronomistic History". He probably coined that term. Not sure tho
 
 ### William F Albright
 * Coined the term [Historical Criticism](#Historical-Criticism).
