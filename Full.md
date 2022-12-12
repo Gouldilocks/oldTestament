@@ -630,4 +630,4 @@ Very hard to date events up until this point in history.
   * [David](#David) is treated in a __Special__, and an __Exclusive__ way different to that of [Saul](#Saul)
 
 ### Wolfgang Iser
-* Coined the term [Reader-Response Criticism](#Reader Response Criticism)
+* Coined the term [Reader-Response Criticism](#Reader-Response Criticism)
