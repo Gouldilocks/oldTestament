@@ -42,7 +42,7 @@ BCE 458: End of Ezrah
 
 # Genres
 * [Didactic](#Didactic)
-* [Wisdom Literature](#Wisdom Literature)
+* [Wisdom Literature](#Wisdom-Literature)
 
 # Kings
 * Kings is about two kingdoms: Israel and Jerusalem
