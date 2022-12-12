@@ -1,5 +1,6 @@
 # Full
 
+* One of David's children, attempted to take the throne from Solomon. Later put to death by Solomon.
 # Dates
 ```
 BCE 965: Solomon Becomes King
@@ -103,19 +104,15 @@ Very hard to date events up until this point in history.
 
 ### Jeroboam II
 * The people had prosperity under his rule. Very much a Deuteronomistic King
-* Did evil in God's eyes. 
 
 ### Darius
 * Other king of persia after king [Cyrus](#Cyrus)
 
 ### Ahasuerus/Ahashverosh/Artaxerxes
-<<<<<<< HEAD
 * Artaxerxes was the son of king Xerxes in Persia 
-* King of Persia. Freed Israelites from Babylonian exile.
 
 ### Zedekiah
 * Zedekiah was the last king of Judah and was king when Jerusalem and the temple were destroyed by Babylon in 586 BC and the majority of the people were carried into exile
-* King of Judah. He did evil in the Lord's eyes. He rebelled against Babylon and Jerusalem was besiged and he was captured.
 
 # Prophets
 ### Amos
@@ -145,8 +142,6 @@ Very hard to date events up until this point in history.
 * Saw visions of God on his high throne
 * Isaiah talks about the [Suffering Servant](#Suffering-Servant)
 * Set up the precedent that God protects his temple
-* God ordered him to marry a promiscuous woman. His relationship with her was an example of God's relationship with Israel.
-* Prophesized about the Messiah. Prophesized to pre and post-exile Israel.
 
 ### Jeremiah
 * The weeping prophet
@@ -355,18 +350,11 @@ Very hard to date events up until this point in history.
 * Was killed by [Joab](#Joab) by the command of [David](#David)
 
 ### Amasa
-<<<<<<< HEAD
 * Amasa was a nephew of David, and cousin of Joab, David's military commander, as well as a cousin of Absalom, David's son
 
 ### Adonijah
 * Adonijah was born at Hebron during the long conflict between David and the House of Saul. 
 * In 1 Kings, he briefly proclaimed himself king of Israel during the terminal illness of his father David, before peacefully ceding the throne to his brother Solomon.
-=======
-* Relative of David, killed by Joab.
-
-### Adonijah
-* One of David's children, attempted to take the throne from Solomon. Later put to death by Solomon.
->>>>>>> 89b9d158646aa347cd6ad5b579f1ff0fba7f2b5b
 
 ### Lady Wisdom
 * Talked about in Proverbs 8:22
@@ -374,13 +362,9 @@ Very hard to date events up until this point in history.
 
 # Places, Countries, Peoples, Artifacts, and One Goddess
 ### Bethel
-<<<<<<< HEAD
 * Golden calf by jeroab
 * Northern kingdom
 * Where [Amos](#Amos) talked about locusts coming and killing all their crops
-=======
-* Golden calves were erected here
->>>>>>> 89b9d158646aa347cd6ad5b579f1ff0fba7f2b5b
 
 ### Samaria
 * Samaria (Hebrew: Shomron) is mentioned in the Bible in 1 Kings 16:24 as the name of the mountain on which Omri, ruler of the northern Israelite kingdom in the 9th century BCE, built his capital, naming it also Samaria
@@ -391,12 +375,8 @@ Very hard to date events up until this point in history.
 * They were [Assyrian](#Assyria)
 
 ### Assyria
-<<<<<<< HEAD
 * They destroy the Northern Kingdom.
 * [Nineveh](#Nineveh) was a part of Assyria
-=======
-* Conquered the Northern Kingdom
->>>>>>> 89b9d158646aa347cd6ad5b579f1ff0fba7f2b5b
 
 ### Babylon
 * See context about [Jeremiah](#Jeremiah)
@@ -406,7 +386,6 @@ Very hard to date events up until this point in history.
 * Kingdom who takes over [Babylon](#Babylon)
 
 ### Chaldeans
-<<<<<<< HEAD
 * The book of [Habakkuk](#Habakkuk) says it is talking about these peoples, but the commentary says it is actually talking about the Romans 
 
 ### Moab
@@ -414,12 +393,6 @@ Very hard to date events up until this point in history.
 * Speaks of Moab: King Mesha
 * King Umri of Israel oppressed Messoa. Kemoah the deity was angry with his country but Imesha became King. Son of Omri said I will oppress Moab but then will kick ass
 * King omri of northern kingdom: Moab, recent possession
-=======
-* Babylonians
-
-### Moab
-* Ruth was a Moabite. Banned from the assembly of God for not welcoming the Israelites after they left Egypt.
->>>>>>> 89b9d158646aa347cd6ad5b579f1ff0fba7f2b5b
 
 ### Ten Lost Tribes
 * When Israel was attacked by the Assyrians, they were ransacked.
@@ -439,22 +412,12 @@ Very hard to date events up until this point in history.
 * [Boaz](#Boaz) was from Bethlehem and welcomed [Ruth](#Ruth)
 
 ### Jerusalem
-<<<<<<< HEAD
 * [David](#David) Brought the Ark here
 * Babylonians destroyed the temple here in 586 BCE
 * The siege of Jerusalem was [Historical Criticism](#Historical-Criticism)
 
 ### Inanna/Ishtar
 * goddess of human sexuality and goddess of war
-=======
-__NEED SOMETHING__
-
-### Ten Lost Tribes
-* 10 tribes sent into exile after Assyrian invasion. All tribes except Judah and Benjamin.
-
-### Inanna/Ishtar
-* Mesopotamian goddess of love, war, and fertility.
->>>>>>> 89b9d158646aa347cd6ad5b579f1ff0fba7f2b5b
 
 ### Northern Kingdom/Israel
 * The northern, more rich area of Jerusalem
