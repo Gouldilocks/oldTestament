@@ -17,17 +17,19 @@ BCE 521-520: Darius
 BCE 458: End of Ezrah
 ```
 
+# Match proph. Books to century
+* Ebediah, joel, malechi
+
+# Genres
+* [Didactic](#Didactic)
+* [Wisdom Literature](#Wisdom Literature)
+
 # Kings
 * Kings is about two kingdoms: Israel and Jerusalem
 * Big Highlights: Elijah and Elisha
 * The narrative of the book more closely follows traditional history. That is why we get some hard and fast dates for this time period
 * Starting with the times in David and Solomon, we can start to use the Bible for history, because 3rd sources back it up.
-
 ### Saul
-* King before David, was a clear example of a king who lost favor in God's eyes
-* He tried to get David killed, after David was annointed king by [Samuel](#Samuel)
-* Saul was king when Israel was fighting the philistines
-
 * The Amalekite who killed Saul, *Ish-Boshtheth*
   * What was he doing on the Battlefield?
     * Most likely he was scavenging, but David claims that he had killed Saul after Saul asked to be killed (Serge does not think that is what happened. He thinks that David conspired to kill him and covered his tracks).
@@ -35,69 +37,68 @@ BCE 458: End of Ezrah
 
 ### David
 * See the killing of [Saul](#Saul)
-* See [History of David's Rise](#history-of-davids-rise)
+* See [History of David's Rise](#history-of-david's-rise)
 * David built the Kingdom, Solomon destroyed it
 
 ### Solomon
-* First King in the book of kings. Descended from [David](#David). Wise king
+* First King in the book of kings. Descended from [David](#David)
 Very hard to date events up until this point in history.
 * Serge claims that he is NOT the writer of [Ecclesiastes](#Ecclesiastes)
-* Serge says that there is no way Solomon wrote it since there are Persian words in it
-* Everything is great, inherits huge kingdom by his father King David
+* Serge says that there is no way Solomon wrote it
+  * He says there is too much persian writing in it
+* everything is great, inherits huge kingdom by his father King David
 * Solomon comes for the Hebrew word shalom which means Peace
 
 ### Jeroboam I
-* People rebelled against Rehoboam, Solomon's son, and chose Jeroboam as their king
-* Causes Israel to split into Northern (Israel) and Southern (Judah) kingdoms
+* People rebelled against Rehoboam and chose Jeroboam as their king
 
 ### Hezekiah
-* Second king in the book of Kings. Descended from David.
+* Second king in the book of kings. Descended from David
 * Tells us Senacchari overtakes Jerusalem since Hezekiah was causing trouble
 * indirectly confirms something else the Bible tells us
 * Up to this point, we were reading historical in a way it was an event on the past
 
 ### Manasseh
-* King of Judah, did evil in the Lord's eyes
-* Idol worship, human sacrifice
-* God promised to wipe out Jerusalem due to his sin
+* Worshipped pagan deities
+* Sacrificed his own son
+* Was known for evil
 
 ### Josiah
-* Third King in the book of kings. Descended from David.
+* Third King in the book of kings. Descended from David
 * Finds the "hidden documents" and repents.
-* God is still angry after his reign.
 
 ### Jehoiachin
-* King of Judah, successor of Jehoiakim.
+* Practiced Pagan things
+* Led the people away from God
+* Surrenderred to Nebuchadnezzar
 
 ### Sennacherib
-* King of Assyria
-* Angel of death killed a lot of his soldiers
+* The syrian king who tried to beseige Jerusalem, but could not
+* When [Hezekiah](#Hezekiah) was king of Assyria
 
 ### Nebuchadnezzar
-* King of Babylon. Took many people of Jerusalem into exile.
+* King of Babylon, took over Jerusalem, and enslaved the people of Israel
 
 ### Cyrus
-* King of Persia, conquered Babylon and freed Judah
+* King of persia durring the time of Jerusalem being conquered
 
 ### Jeroboam II
-* Son of Jehoash king of Israel
-* Restored Israel's borders
+__NEED SOMETHING__
 
 ### Darius
-* Other king of Persia after king [Cyrus](#Cyrus)
-* Did not change Cyrus's policies regarding Jerusalem
+* Other king of persia after king [Cyrus](#Cyrus)
 
 ### Ahasuerus/Ahashverosh/Artaxerxes
-* Allowed the people of Judah to return from exile and rebuild the temple
+__NEED SOMETHING__
 
 ### Zedekiah
-* King of Judah during Babylonian exile. Appointed by Nebuchadnezzar. He did evil in the Lord's eyes. He later rebels against Babylon and is punished.
+__NEED SOMETHING__
 
 # Prophets
-### Amos (8th Century BC)
+### Amos
 * Who was the author?
-  * Implied author: Amos and God
-  * Author: Unknown, maybe made up
+  * Possibly Amos himself, or someone in the audience
+  * Possibly someone from Judah
 * Amos 1:3
   * Talking about neighbors of the kingdom of israel, so it made the northern part happy.
   * The wealth in the north is the result of the exploitation of the poor
@@ -111,14 +112,16 @@ Very hard to date events up until this point in history.
 * This was talking about the assyrian attack.
 * The question left to us at the end is: __Are we next?__
 
-### Hosea (8th Century BC)
-* Told by God to marry a promiscuous woman. His relationship with her was an example of the relationship between God and Israel.
-
-### Isaiah (8th Century BC)
+### Hosea
 __NEED SOMETHING__
 
-### Jeremiah (Early 6th Century BC)
+### Isaiah
+__NEED SOMETHING__
+
+### Jeremiah
+* The weeping prophet
 * When God asks him to go prophecy, he wants to not go, and complains.
+* Did not think he would be 
 * Prophets would commonly say no to becoming a prophet
   * They were usually people who had bad things happen to them for the purpose of showing God is serious.
 
@@ -127,12 +130,12 @@ __NEED SOMETHING__
   * An opposing prophet, [Heneniah](#Heneniah) says that they should fight.
     * This is not something that was a crazy idea, because of the previous precedent with [Isaiah](#Isaiah), where God defended the temple.
 
-### Ezekiel (Early 6th Century BC)
+### Ezekiel
 * Sees a vision from God, and has to lie on his side 390 days and then 40 days on the other to represent the two kingdoms.
 * In Ezekiel 47, there is a parallel to the garden of eden.
 * Was a prophecy to the return of the garden of eden
 
-### Jonah (8th Century BC)
+### Jonah
 * Jonah is one of the 12 minor prophets
 * Very unique book, has a lot of comedic parts to it
 
@@ -154,19 +157,19 @@ __NEED SOMETHING__
       * Because at the time of the books writing, Jerusalem had been sacked by Nineveh, and the book is set before that time. The sacrifice here is Jerusalem. That is also why it is shown that Jonah was so upset about them being spared. 
   * The book shows that God *Does* sacrifice the innocent for the sake of the sinner
 
-### Zephaniah (Late 7th Century BC)
+### Zephaniah
 * Has mixed messages of Doom and salvation
 
-### Habakuk (Late 7th Century BC)
-__NEED SOMETHING__
+### Habakuk
+* The Bible contains a lesson. 
+* They think that Habakkuk was preaching the teacher of righteousness, wicked priest, everything in between, writing about his own time
 
-### Zechariah (Late 6th Century BC)
+### Zechariah
 * God's world is different, so using that [Mysticism](#Mysticism), we know Zechariah is actually seeing God.
 * This is time after the exile, so he really has to work for his credentials.
-* Wrote to reassure the people. Political regime change in Persia made the people jumpy.
   
 ### Hananiah
-* False prophet, said the yoke of Babylon would be broken by God, which is the opposite of what Jeremiah said. Died because he said false prophesy.
+* The false prophet
 
 # Other Biblical and Post-Biblical Characters
 ### Ishbosheth
@@ -184,30 +187,33 @@ __NEED SOMETHING__
 * His wife was [Bathsheba](#Bathsheba)
 
 ### Absalom
-__NEED SOMETHING__
+* David's oldest son, who was sacrificed
+* Murdered Amnon, because he slepth with his sister
+* God killed him because [David](#David) killed [Uriah](#Uriah)
 
 ### Amaziah
 __NEED SOMETHING__
 
 ### Ruth
 * What happened in Ruth?
-  * Death, famine, exile, misery, poverty -> birth, plenty, homeland, joy, prosperity, restoration
-  * Because of the movement from sadness to happiness (ignoble -> noble), then this is a comedy. (Also God approves)
+  * Death, famine, exile, misery, poverty, birth, plenty, homeland, joy, prosperity, then restoration
+  * Because of the movement from sadness to happiness (ignoble -> noble), then this is a comedy.
   * She was someone who broke barriers in the binaries. See [Structural Criticism](#Structural-Criticism)
 
 * One can use [Structural Criticism](#Structural-Criticism) on this book.
 
 ### Naomi
-__NEED SOMETHING__
+* The woman who lost her sons and Husband. She was the mother in-law of [Ruth](#Ruth).
+* Was a relative to [Boaz](#Boaz)
 
 ### Boaz
-__NEED SOMETHING__
+* From Bethlehem, from the family of [Naomi](#Naomi).
+* Ended up marrying [Ruth](#Ruth), because another guy did not want her.
 
 ### Esther
 * Esther is the most hotly debated of the [Unholy Trinity](#UnholyTrinity)
 * Even Martin Luther hated the book of Esther.
 * There is no mention of God, Prayer, the commandments, the temp, the promised land, or even Israel.
-* Esther breaks some of the law (Intermarriage)
 * There are multiple versions of Esther:
   * [Beta-Text](#Beta-text)
     * From the Septuagint
@@ -229,7 +235,7 @@ __NEED SOMETHING__
     * This is because people had a problem with Esther intermarrying for self gain.
     * This way, the new story now shows that she was intermarrying just to save her people, not self gain.
 
-### Mordecai
+### Mordechai
 * The cousin of [Esther](#Esther).
 * He gains power because of her. [Haman](#Haman) wanted to kill him, and that is what prompted [Esther](#Esther) to go to the king in the first place.
 
@@ -242,17 +248,18 @@ __NEED SOMETHING__
 * Personified as a woman in the song of songs and prophetic books
 
 ### Ezra
-* Ezra goes to Jerusalem to see if people are following the torah (post exile)
+* Ezra goes to Jerusalem to see if people are following the torah
   * He sees that people are intermarrying and gets super upset
   * The people then repent
 
-* Ezra implies that conversion to Judaism is not possible
-* The book of [Ruth](#Ruth) disagrees (Ruth's conversion)
+* Ezra says that conversion is not really possible
+* Clearly, the book of [Ruth](#Ruth) disagrees.
 
 ### Samuel
 * Strong part of the Christian Cannon
 
 ### Ecclesiastes
+* Called the "anti-Bible" by Serge
 * Coined a "Self help book" by Serge himself
 * Reflective / Speculative / Critical.
 * Has a different view of wisdom than to that of Proverbs.
@@ -284,13 +291,15 @@ __NEED SOMETHING__
 * The messiah of the world, from the new Testament. You gotta know this guy, yeah?
 
 ### Father Mapple
-__NEED SOMETHING__
+* A former whaler, he has become a preacher in the New bedford Whaleman's chapel.
+* Gives a sermon on Jonah
+* Was a person in Moby Dick
 
 ### Teacher of Righteousness
-__NEED SOMETHING__
+* Someone we do not know, founder of Qumran community or leader
 
 ### Wicked Priest
-__NEED SOMETHING__
+* Nemesis of the teacher of righteousness
 
 ### Jonathan
 __NEED SOMETHING__
@@ -343,9 +352,10 @@ __NEED SOMETHING__
 
 ### Ten Lost Tribes
 * When Israel was attacked by the Assyrians, they were ransacked.
-* All the tribes except Judah and Benjamin were then considered "lost"
+* They were then called the 10 lost tribes
 * At this time, there was only one descendant of David
   * It was most likely so that a connection to the kingship could be made from Jesus all the way back
+
 
 ### Mari
 __NEED SOMETHING__
@@ -354,19 +364,24 @@ __NEED SOMETHING__
 __NEED SOMETHING__
 
 ### Bethlehem
-__NEED SOMETHING__
+* Rachel, wife of Jacob was buried in Bethlehem
+* [Boaz](#Boaz) was from Bethlehem and welcomed [Ruth](#Ruth)
 
 ### Jerusalem
-* Capital of Judah and location of the temple
+__NEED SOMETHING__
+
+### Ten Lost Tribes
+__NEED SOMETHING__
 
 ### Inanna/Ishtar
 __NEED SOMETHING__
 
 ### Northern Kingdom/Israel
-* The northern kingdom; wealthier than Israel. Ransacked before Judah
+* The northern, more rich area of Jerusalem
 
 ### Southern Kingdom/Judah
-* Kingdom of Judah, location of The Temple. Capital was Jerusalem.
+* On the south side
+* Has Solomon's Temple
 
 # Concepts, Terms, Scholars, Authors
 ## Criticisms
@@ -378,7 +393,7 @@ __NEED SOMETHING__
   * Example: [Esther](#Esther)
 
 ### Structural Criticism
-* Coined by [Claude Levy-Strauss](#Claude-Levi-Strauss).
+* Coined by [Claude Levy-straws](#Claude-Levi-Strauss).
   * All humans percieve the world in binaries
     * Binaries: One side is always good, one is bad. Up is good, down is bad.
     * One such example is [Ruth](#Ruth). There is the binary of we/they.
@@ -388,26 +403,24 @@ __NEED SOMETHING__
     * Ruth also does not conform to the binary of men and women in that age.
       * In those times, women __Never__ made the first move, yet she does by sleeping at the man's feet, and is praised for it.
   * [Ruth](#Ruth) is therefore a binary-breaker.
-  * 
 
 ### Redaction Criticism
+* Remove a text and see if the resulting story is still readable
 * Seen in 2 Samuel. See [David](#David)
 
 ### Historical Criticism
-__NEED SOMETHING__
+* Zenachary attack on Jerusalem happened, but the Bible says that it doesn't
 
 ### Reader-Response Criticism
-* Text seperates the author from the audience.
-* Author -> Implied Author -> Text -> Implied Audience
-* Author -> Text <- Audience
+__NEED SOMETHING__
 
 ## Terms
 ### Wisdom Literature
-* There is no discernable structure / order
+* Proverbs, [Ecclesiastes](#Ecclesiastes), and Job
+* There is no structure / order
 * Think of it as to like an accumulation of things
-* Meant to be referenced, not read (like a phonebook)
-* Entirely secular
-* Similar to how the Quran was written.
+* Similar to how we view phonebooks or dictionaries
+* Similar to how the Kuran was written.
 
 ### Triangulation
 * The idea of triangulation is that you should have a 3rd source whenever you want to verify the integrity of a source. We want something to verify the text and to "get our bearing" so to speak.
@@ -419,10 +432,12 @@ __NEED SOMETHING__
   * [Theodicy](#Theodicy)
   * [Symbolic Action](#Symbolic-Action)
   * [Mysticism](#Mysticism)
+  * [Prophetic Lawsuits](#Prophetic-Lawsuit)
   
 ### Actualization
 * This is when a prophecy made by a prophet is actually fulfilled by God
 * This is how we know if a prophet is a false prophet or not
+* Making something that happened back then correlate to our life
 
 ### Allegorization
 * Basically an extended metaphor
@@ -439,7 +454,7 @@ __NEED SOMETHING__
   * It is clear that Serge believes this term should mean when people went back to the Bible and edited it in order to make it more appropriately match their views. I don't buy it, but thats what he believes clearly.
 
 ### Davidic Promise
-__NEED SOMETHING__
+* God's promise to [David](#David) That his kingdom will always reign
 
 ### Deconstruction
 * Put into gaps things that the author did not want you to think about
@@ -493,26 +508,33 @@ __NEED SOMETHING__
 __NEED SOMETHING__
 * 
 ### "Stories"
-__NEED SOMETHING__
-* 
+* Stories about private individuals like:
+  * [Esther](#Esther)
+  * [Ruth](#Ruth)
+  * [Jonah](#Jonah)
+  
 ### Didactic
 * The genre that is all *instructions or teachings*
 * Proverbs is Didactic
   * The opposite type of writing is like the writings in Job or [Ecclesiastes](#Ecclesiastes)
   
-### reflective/speculative/critical
-__NEED SOMETHING__
-* 
+### reflective speculative critical
+* Asks questions to the user
+* Puts the book of proverbs upside down
+* Job and Ecclesiastes
+  * Job Questions God a bunch
+
 ### Deutero-Isaiah
-__NEED SOMETHING__
-* 
+* Describes how God will make the center of his world through a savior, and destroy the oppressor.
+* Chapter 40 - 55 of Isaiah
+
 ### Typology
-__NEED SOMETHING__
+* Sees Bible as a precedent
 
 ## People
 
 ### Stefan Heym
-__NEED SOMETHING__
+* Writer of the King David Report
 
 ### Claude Levi-Strauss
 __NEED SOMETHING__
@@ -520,10 +542,10 @@ __NEED SOMETHING__
 ### Martin Noth
 __NEED SOMETHING__
 
-### William F. Albright
-* Coined the term [Historical Criticism](#Historical-Criticism), which uses the Bible as a historical source.
+### William F Albright
+* Coined the term [Historical Criticism](#Historical-Criticism).
 
-### History of Davids Rise
+### History of David's Rise
 * As we move on in the story, everyone who stands in the way of [David](#David) just dies.
   * We do not know if he was in any way involved.
   * Would a "Man after God's own heart" be able to secretly murder people?
@@ -551,5 +573,5 @@ __NEED SOMETHING__
     
   * [David](#David) is treated in a __Special__, and an __Exclusive__ way different to that of [Saul](#Saul)
 
-### Wolfgang Iser  
-* Created Reader-Response Criticism
+### Wolfgang Iser
+* Coined the term [Reader-Response Criticism](#Reader Response Criticism)
