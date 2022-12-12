@@ -455,7 +455,7 @@ Very hard to date events up until this point in history.
 * Zenachary attack on Jerusalem happened, but the Bible says that it doesn't
 
 ### Reader-Response Criticism
-* Coined by [Wolfgang Iser](#Wolfgang Iser)
+* Coined by [Wolfgang Iser](#Wolfgang-Iser)
 * Begins like form criticism 
 * Every text is a communication
 * But the difference is that
@@ -520,7 +520,7 @@ Very hard to date events up until this point in history.
 * Uses people's curiosity and gets their attention
 * If people see a prophet acting in these weird and crazy ways, then he __must__ be talking to God. It establishes some ethos.
 * Examples:
-  * [Ezekiel(#Ezekiel) sees God's chariot in a dream, and then other things that God defines
+  * [Ezekiel](#Ezekiel) sees God's chariot in a dream, and then other things that God defines
     * As a result, he makes a model city and has to lie on his left side 390 days and the other side 40.
 
 ### Unholy Trinity
@@ -630,4 +630,4 @@ Very hard to date events up until this point in history.
   * [David](#David) is treated in a __Special__, and an __Exclusive__ way different to that of [Saul](#Saul)
 
 ### Wolfgang Iser
-* Coined the term [Reader-Response Criticism](#Reader-Response Criticism)
+* Coined the term [Reader-Response Criticism](#Reader-Response-Criticism)
