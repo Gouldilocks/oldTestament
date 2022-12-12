@@ -45,7 +45,7 @@ BCE 458: End of Ezrah
 * [Wisdom Literature](#Wisdom-Literature)
 
 # Kings
-* Kings is about two kingdoms: Israel and Jerusalem
+* Kings is about two kingdoms: Israel and Judah
 * Big Highlights: Elijah and Elisha
 * The narrative of the book more closely follows traditional history. That is why we get some hard and fast dates for this time period
 * Starting with the times in David and Solomon, we can start to use the Bible for history, because 3rd sources back it up.
