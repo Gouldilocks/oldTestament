@@ -1,7 +1,15 @@
 # Full
 
-* One of David's children, attempted to take the throne from Solomon. Later put to death by Solomon.
+# Genres
+Hstorical
+stories
+prophecy
+didactic wisdom
+speculative / reflective
+none
+
 # Dates
+
 ```
 BCE 965: Solomon Becomes King
 BCE 721: Israel Attacked by Assyrians
