@@ -199,9 +199,9 @@ Very hard to date events up until this point in history.
 * The false prophet. Opposed [Jeremiah](#Jeremiah)
 
 # Other Biblical and Post-Biblical Characters
-### Ishbosheth
-* fourth son of King Saul and the last representative of his family to be king over Israel
-* Was killed by [David](#David)
+### Ish-bosheth
+* Fourth son of King Saul and the last representative of his family to be king over Israel
+* Was killed by his own men, who were then killed by [David](#David)
   * Most likely so that David could become king
 
 ### Joab
